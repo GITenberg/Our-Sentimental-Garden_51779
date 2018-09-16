@@ -1,0 +1,39 @@
+_repo: Our-Sentimental-Garden_51779
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, Charles
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31464'
+    url: http://www.gutenberg.org/2009/agents/31464
+creator:
+  authors:
+  - agent_name: Castle, Agnes
+    aliases:
+    - Castle, Agnes Sweetman
+    - Sweetman, Agnes
+    deathdate: 1922
+    gutenberg_agent_id: '42676'
+    url: http://www.gutenberg.org/2009/agents/42676
+  - agent_name: Castle, Egerton
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '4570'
+    url: http://www.gutenberg.org/2009/agents/4570
+description: ''
+gutenberg_issued: '2016-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening'
+- !lcsh 'Flower gardening'
+- GITenberg
+title: Our Sentimental Garden
+url: http://www.gutenberg.org/ebooks/51779
